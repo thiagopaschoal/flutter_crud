@@ -4,7 +4,7 @@ const DUMMY_USERS = {
   '1': const User(
       id: '1',
       name: "Thiago Sakurai Paschoal",
-      email: "thiagopaschoal076@gmail.com",
+      email: "thiago@gmail.com",
       avatarUrl:
           "https://cdn.pixabay.com/photo/2020/05/16/13/45/boy-5177643_960_720.jpg"),
   '2': const User(
