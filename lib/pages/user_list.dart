@@ -15,6 +15,7 @@ class UserList extends StatelessWidget {
         title: Center(
           child: Text("Lista de Usuários"),
         ),
+        backgroundColor: Colors.black87,
         actions: <Widget>[
           IconButton(
             icon: Icon(Icons.add),
