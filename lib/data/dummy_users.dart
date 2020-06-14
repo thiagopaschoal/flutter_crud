@@ -3,31 +3,20 @@ import 'package:flutter_crud/models/user.dart';
 const DUMMY_USERS = {
   '1': const User(
       id: '1',
-      name: "Thiago Sakurai Paschoal",
-      email: "thiago@gmail.com",
+      name: "Capitão América",
+      email: "steve@avengers.com",
       avatarUrl:
-          "https://cdn.pixabay.com/photo/2020/05/16/13/45/boy-5177643_960_720.jpg"),
+          "https://www.google.com/url?sa=i&url=https%3A%2F%2Fpicsart.com%2Fhashtag%2Fcapitao&psig=AOvVaw2ZD4MPeyC3dzi0ohgbJBXu&ust=1592225809259000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCOCg3MitgeoCFQAAAAAdAAAAABAE"),
   '2': const User(
       id: '2',
-      name: "Laura Sakurai Paschoal",
-      email: "laura@gmail.com",
-      avatarUrl: ""),
+      name: "Homem de Ferro",
+      email: "stark@avengers.com",
+      avatarUrl:
+          "https://www.google.com/url?sa=i&url=https%3A%2F%2Fgamebanana.com%2Fsprays%2F43784&psig=AOvVaw1cN79nnphpAABFuHWk44RC&ust=1592225710749000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCMi03J2tgeoCFQAAAAAdAAAAABAP"),
   '3': const User(
       id: '3',
-      name: "Matheus Sakurai Paschoal",
-      email: "matheus@gmail.com",
+      name: "Thor",
+      email: "thor@avengers.com",
       avatarUrl:
-          "https://cdn.pixabay.com/photo/2016/03/31/19/58/avatar-1295429_960_720.png"),
-  '4': const User(
-      id: '4',
-      name: "Marcia Regina Sakurai Paschoal",
-      email: "marcia@gmail.com",
-      avatarUrl:
-          "https://cdn.pixabay.com/photo/2020/04/15/17/32/medical-5047582_960_720.png"),
-  '5': const User(
-      id: '5',
-      name: "Antonio José Goncalves Paschoal",
-      email: "antonio@gmail.com",
-      avatarUrl:
-          "https://cdn.pixabay.com/photo/2013/07/12/19/15/gangster-154425_960_720.png"),
+          "https://cdn.iconscout.com/icon/free/png-256/thor-avengers-1502879-1273094.png"),
 };
